@@ -1,5 +1,5 @@
 #### 2. Hello world tensorflow
-What relationship you see in this numbers?
+What relationship do you see in these numbers?
 
 ```
 X: -1 0 1 2 3 4
